@@ -1,2 +1,1 @@
-# az-code-formatter
-# Chrome-extension
+#AZ Chrome-extension
